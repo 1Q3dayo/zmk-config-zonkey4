@@ -165,6 +165,8 @@ Lipoバッテリー(28×38×厚さ6mm)までのバッテリーを収納可能<br
 <br>
 
 # ファームウェアのダウンロード
+[ポインターの遅延・安定性の調整と確認手順](docs/pointing-stability.md)
+
 ファームウェアはこちら
 kemapを編集しない場合はフォークする必要はありません。<br>
 >[zonkey(JIS配列）ファームウェア.zip](https://github.com/user-attachments/files/21035838/zonkey.JIS.zip)<br>

@@ -13,7 +13,8 @@ manifest:
       import: app/west.yml
     - name: zmk-pmw3610-driver
       remote: kureyakey
-      revision: main
+      # Pin the driver whose polling and automouse behavior was reviewed.
+      revision: 9f5b7ac0509ac353826c9634826814056a4be168
     - name: zmk-rgbled-widget
       remote: caksoylar
       revision: v0.3
